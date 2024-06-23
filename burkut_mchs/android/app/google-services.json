@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "459842677939",
+    "project_id": "mchs-kr",
+    "storage_bucket": "mchs-kr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459842677939:android:f6b31c3a74944998e194c6",
+        "android_client_info": {
+          "package_name": "com.example.burkut_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlI1I0ROIqHbrcRK1KlgNkmWic5l4ZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459842677939:android:696d5587bdcf01bae194c6",
+        "android_client_info": {
+          "package_name": "com.example.burkut_mchs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlI1I0ROIqHbrcRK1KlgNkmWic5l4ZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459842677939:android:9dae167d062a8297e194c6",
+        "android_client_info": {
+          "package_name": "com.example.mchs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlI1I0ROIqHbrcRK1KlgNkmWic5l4ZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
